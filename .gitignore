@@ -2,3 +2,5 @@ corpus
 lexile
 .ipynb_checkpoints
 *.h5
+glove
+test
