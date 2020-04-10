@@ -4,3 +4,5 @@ lexile
 glove
 covers*
 reports
+.gitignore
+.*
