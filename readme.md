@@ -26,6 +26,8 @@ What this collection of notebooks does it walk the user through the process of:
 * [10: LSTM Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/10_lstm_title.ipynb)
 * [11: LSTM Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/11_lstm_plot.ipynb)
 * [12: LSTM Version IV](https://github.com/educatorsRlearners/book-maturity/blob/master/12_lstm_csm_review.ipynb)
+* [13: LSTM Version V](https://github.com/educatorsRlearners/book-maturity/blob/master/13_lstm_plot.ipynb)
+
 
 
 
