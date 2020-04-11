@@ -2,8 +2,6 @@
 
 This project serves as the capstone to my studies at [Data Science Retreat](https://www.datascienceretreat.com/) cohort # 21.
 
-What this collection of notebooks does it walk the user through the process of: 
-
 ## Data Collection - Scraping [Common Sense Media Book Reviews](https://www.commonsensemedia.org/book-reviews)
 * [0: Getting Search Pages](https://github.com/educatorsRlearners/book-maturity/blob/master/00_get_search_pages.ipynb)
 * [1: Getting Links to the Book Titles](https://github.com/educatorsRlearners/book-maturity/blob/master/01_get_title_links.ipynb)
@@ -33,8 +31,5 @@ What this collection of notebooks does it walk the user through the process of:
 * [15: Get All Covers](https://github.com/educatorsRlearners/book-maturity/blob/master/15_get_covers.ipynb)
 * [16: Convolutional Neural Network (CNN)](https://github.com/educatorsRlearners/book-maturity/blob/master/16_analyze_covers.ipynb)
 
-
-
-     
 While the bootcamp is finished, my work with this program will continue as I improve the structure of this repo. Please feel free to clone and submit pull requests. 
 
