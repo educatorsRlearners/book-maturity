@@ -24,6 +24,8 @@ What this collection of notebooks does it walk the user through the process of:
 ## [Long Short Term Memory](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [9: Baseline LSTM](https://github.com/educatorsRlearners/book-maturity/blob/master/09_baseline_lstm.ipynb)
 * [10: LSTM Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/10_lstm_title.ipynb)
+* [11: LSTM Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/11_lstm_plot.ipynb)
+* [12: LSTM Version IV](https://github.com/educatorsRlearners/book-maturity/blob/master/12_lstm_csm_review.ipynb)
 
 
 
