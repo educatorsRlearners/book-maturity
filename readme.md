@@ -26,19 +26,15 @@ What this collection of notebooks does it walk the user through the process of:
 * [10: LSTM Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/10_lstm_title.ipynb)
 * [11: LSTM Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/11_lstm_plot.ipynb)
 * [12: LSTM Version IV](https://github.com/educatorsRlearners/book-maturity/blob/master/12_lstm_csm_review.ipynb)
-* [13: LSTM Version V](https://github.com/educatorsRlearners/book-maturity/blob/master/13_lstm_plot.ipynb)
+* [13: LSTM Version V](https://github.com/educatorsRlearners/book-maturity/blob/master/13_lstm_pntk.ipynb)
+* [14: LSTM Final Version](https://github.com/educatorsRlearners/book-maturity/blob/master/14_lstm_concat.ipynb)
+
+## Computer Vision - Can you judge a book by its cover?
+* [15: Get All Covers](https://github.com/educatorsRlearners/book-maturity/blob/master/15_get_covers.ipynb)
+* [16: Convolutional Neural Network (CNN)](https://github.com/educatorsRlearners/book-maturity/blob/master/16_analyze_covers.ipynb)
 
 
 
-
-
-
-* conducting exploratory data analysis
-* establishing a baseline
-* creating models using 
-     * XGBoost
-     * LSTM
-     * computer vision
      
 While the bootcamp is finished, my work with this program will continue as I improve the structure of this repo. Please feel free to clone and submit pull requests. 
 
