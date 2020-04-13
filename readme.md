@@ -1,7 +1,6 @@
 # Text Analyzer
 
-While there are several ways to measure the linguistic complexity of a text, I've yet to see This project serves as the capstone to my studies at [Data Science Retreat](https://www.datascienceretreat.com/) cohort # 21.
-
+While there are several ways to measure the linguistic complexity of a text, I've yet to see a program that identifies a minimum age a reader needs to be for a particular book. Therefore, this project aims to meet this need. 
 ## Data Collection - Scraping [Common Sense Media Book Reviews](https://www.commonsensemedia.org/book-reviews)
 * [0: Getting Search Pages](https://github.com/educatorsRlearners/book-maturity/blob/master/00_get_search_pages.ipynb)
 * [1: Getting Links to the Book Titles](https://github.com/educatorsRlearners/book-maturity/blob/master/01_get_title_links.ipynb)
@@ -12,13 +11,15 @@ While there are several ways to measure the linguistic complexity of a text, I'v
 * [4: Exploratory Data Analysis](https://github.com/educatorsRlearners/book-maturity/blob/master/04_Split_Data_EDA.ipynb)
 
 ## Establish the Baseline Model
-* [5: Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb)
-
-The mean age is 9.00. Using this value as the default predictor gives a [mean absolute error](https://www.statisticshowto.com/absolute-error/) (MAE) of 3.27 which will serve as the baseline. 
+* [5: Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb)  
+    The mean age for the target variable is 9.00. Using this value as the default predictor gives a [mean absolute error](https://www.statisticshowto.com/absolute-error/) (MAE) of 3.27 which will serve as the baseline. 
 
 ## XGBoost - aka "King of Kaggle"
-* [6: Baseline XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/06_baseline_xgboost.ipynb)
-* [7: XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/07_xgboost.ipynb)
+* [6: Baseline XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/06_baseline_xgboost.ipynb)  
+    Bag of Words (BoW) with just the one line book description
+* [7: XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/07_xgboost.ipynb)  
+    BoW with the book description 
+    
 * [8: Final XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/08_xgboost_concat.ipynb)
 
 ## [Long Short Term Memory](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
