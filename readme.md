@@ -1,6 +1,6 @@
 # Text Analyzer
 
-This project serves as the capstone to my studies at [Data Science Retreat](https://www.datascienceretreat.com/) cohort # 21.
+While there are several ways to measure the linguistic complexity of a text, I've yet to see This project serves as the capstone to my studies at [Data Science Retreat](https://www.datascienceretreat.com/) cohort # 21.
 
 ## Data Collection - Scraping [Common Sense Media Book Reviews](https://www.commonsensemedia.org/book-reviews)
 * [0: Getting Search Pages](https://github.com/educatorsRlearners/book-maturity/blob/master/00_get_search_pages.ipynb)
@@ -13,6 +13,8 @@ This project serves as the capstone to my studies at [Data Science Retreat](http
 
 ## Establish the Baseline Model
 * [5: Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb)
+
+The mean age is 9.00. Using this value as the default predictor gives a [mean absolute error](https://www.statisticshowto.com/absolute-error/) (MAE) of 3.27 which will serve as the baseline. 
 
 ## XGBoost - aka "King of Kaggle"
 * [6: Baseline XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/06_baseline_xgboost.ipynb)
