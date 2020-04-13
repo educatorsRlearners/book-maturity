@@ -11,16 +11,13 @@ While there are several ways to measure the linguistic complexity of a text, I'v
 * [4: Exploratory Data Analysis](https://github.com/educatorsRlearners/book-maturity/blob/master/04_Split_Data_EDA.ipynb)
 
 ## Establish the Baseline Model
-* [5: Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb)  
-    The mean age for the target variable is 9.00. Using this value as the default predictor gives a [mean absolute error](https://www.statisticshowto.com/absolute-error/) (MAE) of 3.27 which will serve as the baseline. 
+* [5: Naive Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb)  
 
 ## XGBoost - aka "King of Kaggle"
 * [6: Baseline XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/06_baseline_xgboost.ipynb)  
-    Bag of Words (BoW) with just the one line book description
-* [7: XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/07_xgboost.ipynb)  
-    BoW with the book description 
-    
-* [8: Final XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/08_xgboost_concat.ipynb)
+* [7: XGBoost Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/07_xgboost.ipynb)      
+* [8: XGBoost Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/08_xgboost_concat.ipynb)  
+
 
 ## [Long Short Term Memory](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [9: Baseline LSTM](https://github.com/educatorsRlearners/book-maturity/blob/master/09_baseline_lstm.ipynb)
@@ -28,11 +25,8 @@ While there are several ways to measure the linguistic complexity of a text, I'v
 * [11: LSTM Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/11_lstm_plot.ipynb)
 * [12: LSTM Version IV](https://github.com/educatorsRlearners/book-maturity/blob/master/12_lstm_csm_review.ipynb)
 * [13: LSTM Version V](https://github.com/educatorsRlearners/book-maturity/blob/master/13_lstm_pntk.ipynb)
-* [14: LSTM Final Version](https://github.com/educatorsRlearners/book-maturity/blob/master/14_lstm_concat.ipynb)
+* [14: LSTM Version VI](https://github.com/educatorsRlearners/book-maturity/blob/master/14_lstm_concat.ipynb)
 
 ## Computer Vision - Can you judge a book by its cover?
 * [15: Get All Covers](https://github.com/educatorsRlearners/book-maturity/blob/master/15_get_covers.ipynb)
 * [16: Convolutional Neural Network (CNN)](https://github.com/educatorsRlearners/book-maturity/blob/master/16_analyze_covers.ipynb)
-
-While the bootcamp is finished, my work with this program will continue as I improve the structure of this repo. Please feel free to clone and submit pull requests. 
-
