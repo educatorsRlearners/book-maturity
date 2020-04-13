@@ -8,7 +8,7 @@ This project serves as the capstone to my studies at [Data Science Retreat](http
 * [2: Collect Every Book Review](https://github.com/educatorsRlearners/book-maturity/blob/master/02_get_book_reviews.ipynb)
 * [3: Extract Details from Each Review](https://github.com/educatorsRlearners/book-maturity/blob/master/03_get_book_details.ipynb)
 
-## Conduct Inspect the Data
+## Inspect the Data
 * [4: Exploratory Data Analysis](https://github.com/educatorsRlearners/book-maturity/blob/master/04_Split_Data_EDA.ipynb)
 
 ## Establish the Baseline Model
