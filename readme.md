@@ -13,7 +13,7 @@ While there are several ways to measure the linguistic complexity of a text, I'v
 ## Establish the Baseline Model
 * [5: Naive Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb)  
 
-## XGBoost - aka "King of Kaggle"
+## [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning) - aka "King of Kaggle"
 * [6: Baseline XGBoost](https://github.com/educatorsRlearners/book-maturity/blob/master/06_baseline_xgboost.ipynb)  
 * [7: XGBoost Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/07_xgboost.ipynb)      
 * [8: XGBoost Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/08_xgboost_concat.ipynb)  
@@ -30,3 +30,13 @@ While there are several ways to measure the linguistic complexity of a text, I'v
 ## Computer Vision - Can you judge a book by its cover?
 * [15: Get All Covers](https://github.com/educatorsRlearners/book-maturity/blob/master/15_get_covers.ipynb)
 * [16: Convolutional Neural Network (CNN)](https://github.com/educatorsRlearners/book-maturity/blob/master/16_analyze_covers.ipynb)
+
+
+## Final Results
+| Model       |Train MAE     |Test MAE     |
+| :------------- |------------ |------------- |
+| [Naive Baseline](https://github.com/educatorsRlearners/book-maturity/blob/master/05_baseline.ipynb) | n/a | 3.27  |
+| [Computer Vision](https://github.com/educatorsRlearners/book-maturity/blob/master/16_analyze_covers.ipynb)| 2.69 | 2.50  |
+| [LSTM Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/10_lstm_title.ipynb)| 1.35 | 1.65  |
+| [XGBoost Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/08_xgboost_concat.ipynb)| 1.50 | 1.62|
+| [LSTM Version VI](https://github.com/educatorsRlearners/book-maturity/blob/master/14_lstm_concat.ipynb)| 0.66| 1.04|
