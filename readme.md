@@ -1,5 +1,6 @@
-# Text Analyzer
+# Book Maturity
 
+## Motivation  
 While there are several ways to measure the linguistic complexity of a text, I've yet to see a program that identifies a minimum age a reader needs to be for a particular book. Therefore, this project aims to meet this need. 
 ## Data Collection - Scraping [Common Sense Media Book Reviews](https://www.commonsensemedia.org/book-reviews)
 * [0: Getting Search Pages](https://github.com/educatorsRlearners/book-maturity/blob/master/00_get_search_pages.ipynb)
@@ -40,3 +41,10 @@ While there are several ways to measure the linguistic complexity of a text, I'v
 | [LSTM Version II](https://github.com/educatorsRlearners/book-maturity/blob/master/10_lstm_title.ipynb)| 1.35 | 1.65  |
 | [XGBoost Version III](https://github.com/educatorsRlearners/book-maturity/blob/master/08_xgboost_concat.ipynb)| 1.50 | 1.62|
 | [LSTM Version VI](https://github.com/educatorsRlearners/book-maturity/blob/master/14_lstm_concat.ipynb)| 0.66| 1.04|
+
+
+## Presenation
+
+Finally, to watch a presenation of this project, please click below: 
+
+[![](http://img.youtube.com/vi/BpOrMErz988/0.jpg)](http://www.youtube.com/watch?v=BpOrMErz988 "Using Machine Learning to Identify Text Maturity")
